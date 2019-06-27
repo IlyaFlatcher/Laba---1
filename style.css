@@ -1,0 +1,56 @@
+body{
+	background: DarkSlateBlue;
+}
+*{
+	padding: 0px;
+	margin: 0px;
+	
+}
+
+.site{
+	margin: 20px;
+	width: 950px;
+	height: 600px;
+	margin: auto;
+}
+
+.header{
+	margin: 10px;
+	width: 1350px;
+	height: 200px;
+	background: white;
+	border-radius: 9px;
+}
+
+.block1{
+	margin: 10px;
+	width: 500px;
+	height: 500px;
+	background: white;
+	border-radius: 9px;
+}
+
+.block2{
+	margin: 10px;
+	width: 500px;
+	height: 500px;
+	background: white;
+	border-radius: 9px;
+}
+
+.block3{
+	margin: 10px;
+	width: 800px;
+	height: 1010px;
+	background: white;
+	border-radius: 9px;
+}
+
+.container{
+	margin-top: -1030px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+	margin-left: 510px;
+
+}
